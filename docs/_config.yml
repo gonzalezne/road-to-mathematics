@@ -1,0 +1,22 @@
+title: "Road to Mathematics"
+description: "Ejercicios y recursos desarrollados durante mi estudio de Grado Universitario en Matemáticas (UNED)."
+baseurl: "/road-to-mathematics" # Cambia según el nombre de tu repositorio
+url: "https://niconecio.github.io" # URL de tu página
+markdown: kramdown
+highlighter: rouge
+
+# Datos opcionales que se muestran en la plantilla
+author: "Tu Nombre"
+email: "tucorreo@example.com"
+
+# Archivos/carpetas excluidos
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+
+# Plugins necesarios
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
