@@ -1,0 +1,12 @@
+Este proyecto está bajo Licencia Creative Commons Atribución-No Comercial-Compartir Igual 4.0 Internacional.
+
+Esto significa que puedes:
+- Compartir: copiar y redistribuir el material en cualquier medio o formato.
+- Modificar: adaptar, transformar y crear a partir del material.
+
+Bajo las siguientes condiciones:
+- No Comercial: No puedes utilizar el material con fines comerciales.
+- Compartir bajo la misma licencia: Si modificas, transformas o creas a partir del material, debes distribuir tus contribuciones bajo esta misma licencia.
+
+Texto completo: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es
+
