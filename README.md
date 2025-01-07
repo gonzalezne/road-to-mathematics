@@ -4,3 +4,5 @@ Ejercicios y recursos desarrollados durante mi estudio de Grado Universitario en
 En concreto, se abordan las asignaturas:
 - Lenguaje Matemático, Conjuntos y Números.
 - Matemática Discreta.
+
+Proyecto en construcción...
